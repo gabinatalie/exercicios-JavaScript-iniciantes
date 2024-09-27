@@ -2,14 +2,13 @@
 
 ## Hello, Word!
 
-Aqui você vai encontrar uma lista de exercícios para quem tem interesse em aprender e praticar JavaScript. 
+Aqui você vai encontrar uma lista de exercícios para quem tem interesse em aprender e praticar JavaScript.
 
-São exercícios simples, focado em quem quer compreender melhor lógica de programação! 
+São exercícios simples, focado em quem quer compreender melhor lógica de programação!
 
-Todos os exercícios foram resolvidos por mim, então é possível consultar as respostas caso não esteja conseguindo sozinho! 
+Todos os exercícios foram resolvidos por mim, então é possível consultar as respostas caso não esteja conseguindo sozinho!
 
 Mas vale lembrar que existem várias maneiras de resolver um problema, então se a sua resposta estiver diferente da minha, não significa que está errada.
-
 
 Uma das vantagens de se começar a programar pelo JavaScript seria a premissa que todos tem um Browser/Navegador e um editor disponível.
 
@@ -180,3 +179,15 @@ A partir daqui, os exercícios foram retirados do: [reposiótio](https://github.
 33. Agora faça um botão para clicar nele para informar se a pessoa acertou o número.
 
 [Resposta](/Exercícios-2/ex-32-33/)
+
+34. Exiba a data atual pelo JavaScript no seguinte formato: dia/mês/Ano
+
+35. Exiba o próximo mês (dinamicamente)
+
+[Resposta](/Exercícios-2/ex-34-35/ex34-35.js)
+
+36. Crie o seguinte array: var deusas = ['Athenas', 'Aphrodite', 'Perséfone']. Adicione os 3 Deuses: ('Hera', 'Nix', 'Freya') com a função push()
+
+37.  Crie o seguinte array: var numbers = [5, 7, 1, 8, 9] E exiba de forma decrescente.
+
+[Resposta](/Exercícios-2/ex-36-37/ex36-37.js)
