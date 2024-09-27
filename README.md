@@ -2,19 +2,24 @@
 
 ## Hello, Word!
 
-Aqui você vai encontrar uma lista de exercícios para quem tem interesse em aprender e praticar JavaScript
-São exercícios simples, focado em quem quer compreender melhor lógica de programação!
-Todos os exercícios foram resolvidos por mim, então é possível consultar as respostas caso não esteja conseguindo sozinho!
-Mas vale lembrar que existem várias maneiras de se resolver o mesmo problema, então se a sua resposta estiver diferente da minha, não significa que está errada.
+Aqui você vai encontrar uma lista de exercícios para quem tem interesse em aprender e praticar JavaScript. 
+
+São exercícios simples, focado em quem quer compreender melhor lógica de programação! 
+
+Todos os exercícios foram resolvidos por mim, então é possível consultar as respostas caso não esteja conseguindo sozinho! 
+
+Mas vale lembrar que existem várias maneiras de resolver um problema, então se a sua resposta estiver diferente da minha, não significa que está errada.
+
 
 Uma das vantagens de se começar a programar pelo JavaScript seria a premissa que todos tem um Browser/Navegador e um editor disponível.
 
 Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido é simples <del>é barato</del> é de graça.
 
 Para utilização do Prompt de perguntas ao usuário, eu utilizei o [npm-readline-sync](https://www.npmjs.com/package/readline-sync)
-A documentação acima ensina como fazer o download dentro do seu projeto, assim você consegue criar um Prompt de pergunta onde o usuário pode inserir a resposta através do terminal/console.
-Mas caso não queira utilizar o prompt para receber o valor solicitado, esse valor pode ser passado diretamente no JavaScript, como teste.
-OBS: Os valores inseridos através de prompt e input são no formato <del>String</del>. Para realizar operações matemáticas é necessário converte-los para <del>Number</del>
+
+A documentação acima ensina como fazer o download dentro do seu projeto, assim você consegue criar um Prompt de pergunta onde o usuário pode inserir a resposta através do terminal/console. Mas caso não queira utilizar o prompt para receber o valor solicitado, esse valor pode ser passado diretamente no JavaScript, como teste.
+
+OBS: Os valores inseridos através de prompt e input são no formato <b>String</b>. Para realizar operações matemáticas é necessário converte-los para <b>Number</b>
 
 ## Vamos lá!
 
@@ -24,7 +29,7 @@ OBS: Os valores inseridos através de prompt e input são no formato <del>String
 
 2. Faça um programa que leia 3 números e exiba-os na tela.
 
-3.Faça um programa que leia do usuário uma temperatura em Fahrenheit, converta-a para graus Celsius e escreva o novo valor na tela. A fórmula de conversão de Fahrenheit (F) para Celsius é C = ( ( F - 32 ) \* 5 ) / 9. Exemplo: 100 Fahrenheit = 37,77 Celsius.
+3. Faça um programa que leia do usuário uma temperatura em Fahrenheit, converta-a para graus Celsius e escreva o novo valor na tela. A fórmula de conversão de Fahrenheit (F) para Celsius é C = ( ( F - 32 ) \* 5 ) / 9. Exemplo: 100 Fahrenheit = 37,77 Celsius.
 
 [Resposta](/Exercícios-1/Variaveis-funcoes.js)
 
@@ -44,13 +49,13 @@ OBS: Os valores inseridos através de prompt e input são no formato <del>String
 
 2. Para um jogo, precisamos saber se um personagem morreu ou não depois de sofrer um ataque. Faça uma função que receba 2 parâmetros, 'dano' e 'saude'. A função deve retornar '1' se o dano for matar o personagem (ou seja, deixar sua saúde menor ou igual a zero) e '0' caso contrário.
 
-3.Precisamos limitar as posições em que um inimigo pode andar na tela. A menor posição possível é 0 e a maior, 100: qualquer valor maior que 100 ou menor que 0 sairia fora da tela. Precisamos de uma função LimitaPosicao que recebe uma POSICAO que pode ter qualquer valor positivo ou negativo, verifica se ela é válida ou não e retorna sempre um valor corrigido entre 0 e 100.
+3. Precisamos limitar as posições em que um inimigo pode andar na tela. A menor posição possível é 0 e a maior, 100: qualquer valor maior que 100 ou menor que 0 sairia fora da tela. Precisamos de uma função LimitaPosicao que recebe uma POSICAO que pode ter qualquer valor positivo ou negativo, verifica se ela é válida ou não e retorna sempre um valor corrigido entre 0 e 100.
 
 [Resposta](/Exercícios-1/Condicionais.js)
 
 **Loop**
 
-1.Escreva um programa que calcule e mostre a tabuada(até 10x) de um número qualquer, digitado pelo usuário.
+1. Escreva um programa que calcule e mostre a tabuada(até 10x) de um número qualquer, digitado pelo usuário.
 
 [Resposta](/Exercícios-1/Loop.js)
 
@@ -60,11 +65,11 @@ OBS: Os valores inseridos através de prompt e input são no formato <del>String
 
 [Resposta](/Exercícios-1/Array.js)
 
-Essa primeira lista de exercícios consegui através do repositório:[repositório](https://github.com/tiagovignatti/exercicios-javascript)
+Essa primeira lista de exercícios consegui através do: [repositório](https://github.com/tiagovignatti/exercicios-javascript)
 
 # Mais exercícios:
 
-A partir daqui, os exercícios foram tirados do repositório: [reposiótio](https://github.com/gabrieldarezzo/helpjs-ravi)
+A partir daqui, os exercícios foram retirados do: [reposiótio](https://github.com/gabrieldarezzo/helpjs-ravi)
 
 1. Imprima 'Hello World!' no console.
 
