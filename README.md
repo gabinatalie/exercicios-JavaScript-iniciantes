@@ -188,6 +188,30 @@ A partir daqui, os exercícios foram retirados do: [reposiótio](https://github.
 
 36. Crie o seguinte array: var deusas = ['Athenas', 'Aphrodite', 'Perséfone']. Adicione os 3 Deuses: ('Hera', 'Nix', 'Freya') com a função push()
 
-37.  Crie o seguinte array: var numbers = [5, 7, 1, 8, 9] E exiba de forma decrescente.
+37. Crie o seguinte array: var numbers = [5, 7, 1, 8, 9] E exiba de forma crescente e decrescente.
 
 [Resposta](/Exercícios-2/ex-36-37/ex36-37.js)
+
+38. Crie o seguinte array var frutas = [uva, maça, banana, abacate, limão, pêssego, morango, ameixa, romã, cereja, amora]. Exiba a quantidade/comprimento que ele tem. (length)
+
+39. Utilizando o array acima, exiba os itens um a um utilizando alert() - De preferência para laços de repetição (for, forEach, while, do{}while)
+
+[Respostas](/Exercícios-2/ex-38-39/)
+
+40. Crie o seguinte array: var filmes = ['Clube da Luta', 'V de Vingança', 'Cisne Negro', 'Garota Interrompida']. Exiba um a um com alert()- De preferência para funções com callbacks, Ex:(map, reduzir, filtrar)
+
+[Resposta](/Exercícios-2/ex-40/)
+
+41. Crie o seguinte array: var singers = ["Madonna", "Lana Del Rey", "Beyoncé", "Lauryn Hill", "Amy Whinehouse", "Hayley Williams", "Kehlani", "Camila Cabello"] E exiba todos os nomes, dentro do html:<ul id="nomes"></ul>
+
+42. Crie um campo de texto no html que armazena o conteúdo em um array sempre que você clica no botão, e apresenta em uma lista(ul)
+
+43. Crie um campo texto no html que armazena o números em um array sempre que você clica no botão, e apresenta em uma lista(ul) destacando os números pares.
+
+[Respostas](/Exercícios-3/ex41-43/)
+
+44.  Crie um campo de texto onde o usuário pode inserir o nome de um animal. Ao clicar no botão, o nome do animal será adicionado a uma lista (ul) em ordem alfabética no HTML. Se o campo estiver vazio, exiba uma mensagem de alerta.
+
+45. Crie um campo de texto onde o usuário pode inserira uma data. Ao clicar no botão, a data será adicionado a uma lista (ul) em ordem decrescente (da mais antiga para mais atual) no HTML. Se o campo estiver vazio, exiba uma mensagem de alerta.
+
+[Respostas](/Exercícios-3/ex44-45/)
