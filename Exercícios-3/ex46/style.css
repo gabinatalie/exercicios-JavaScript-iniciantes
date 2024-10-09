@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    margin: 0;
+    flex-direction: column;
+    gap: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    border: 10px solid white;
+    border-radius: 50%;
+    background-color: black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+}
+
