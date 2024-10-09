@@ -210,8 +210,26 @@ A partir daqui, os exercícios foram retirados do: [reposiótio](https://github.
 
 [Respostas](/Exercícios-3/ex41-43/)
 
-44.  Crie um campo de texto onde o usuário pode inserir o nome de um animal. Ao clicar no botão, o nome do animal será adicionado a uma lista (ul) em ordem alfabética no HTML. Se o campo estiver vazio, exiba uma mensagem de alerta.
+44. Crie um campo de texto onde o usuário pode inserir o nome de um animal. Ao clicar no botão, o nome do animal será adicionado a uma lista (ul) em ordem alfabética no HTML. Se o campo estiver vazio, exiba uma mensagem de alerta.
 
 45. Crie um campo de texto onde o usuário pode inserira uma data. Ao clicar no botão, a data será adicionado a uma lista (ul) em ordem decrescente (da mais antiga para mais atual) no HTML. Se o campo estiver vazio, exiba uma mensagem de alerta.
 
 [Respostas](/Exercícios-3/ex44-45/)
+
+46. Crie uma contagem regressiva de 10 até 0 na tela, utilizando HTML, CSS e JavaScript.
+
+[Resposta](/Exercícios-3/ex46/)
+
+47. Utilizandos as [imagens](/Exercícios-3/ex47/img/) crie uma animação, onde mostre o bonequinho se movimentando, andando, até o fim da página. Utilize HTML, CSS e JavaScript.
+
+[Resposta](/Exercícios-3/ex47/)
+
+48. Faça um programa que leia uma frase do usuário e conte quantas vogais (a,e,i,o,u) existem na frase. Exiba o total de vogais encontradas.
+
+49. Crie uma função que recebe um array de números e retorna a soma de todos os números pares contidos no array. Caso não existam números pares, a função deve retornar 0.
+
+50. Faça um programa que leia uma string do usuário e exiba a mesma string, mas invertida. Por exemplo, o usuário digita "Olá" e o programa irá exibir "álO"
+
+[Respostas](/Exercícios-3/ex48-49-50/)
+
+**Por enquanto é isso pessoal! Pratique bastante, faça e refaça os exercícios quantas vezes quiser, isso ajuda a fixar os principais conceitos de lógica utilizando JavaScript!**
